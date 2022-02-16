@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-687-private-pilot-ground-school-january-iap-2019/e70eece2e594d5d60d5aa91e8e3285c0_geJHchWUYQk.pdf
+file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/e70eece2e594d5d60d5aa91e8e3285c0_geJHchWUYQk.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: e70eece2-e594-d5d6-0d5a-a91e8e3285c0

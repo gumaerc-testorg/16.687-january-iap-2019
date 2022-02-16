@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-687-private-pilot-ground-school-january-iap-2019/df7ee910a8df163bba3070e1d741935c_Th2N_rDfkDw.srt
+file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/df7ee910a8df163bba3070e1d741935c_Th2N_rDfkDw.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: df7ee910-a8df-163b-ba30-70e1d741935c

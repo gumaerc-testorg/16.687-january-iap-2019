@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Class Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Weather Minimums and Final Tips'
 uid: ea709383-d01d-96fd-b8b4-d9c6be018bed
 video_files:
   archive_url: https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-687-private-pilot-ground-school-january-iap-2019/38e697c7b09659849e2478ee86f1fd3c_kiCNa95DnnE.vtt
+  video_captions_file: /courses/16-687-private-pilot-ground-school-january-iap-2019/38e697c7b09659849e2478ee86f1fd3c_kiCNa95DnnE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/kiCNa95DnnE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-687-private-pilot-ground-school-january-iap-2019/5349fc9adc74f0a50dcc4d838440cf6f_kiCNa95DnnE.pdf
+  video_transcript_file: /courses/16-687-private-pilot-ground-school-january-iap-2019/5349fc9adc74f0a50dcc4d838440cf6f_kiCNa95DnnE.pdf
 video_metadata:
   youtube_id: kiCNa95DnnE
 ---

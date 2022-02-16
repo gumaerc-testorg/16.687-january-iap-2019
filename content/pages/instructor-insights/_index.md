@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 ---
@@ -35,28 +37,6 @@ Unrestricted Elective Credits ![Unrestricted elective credits](/images/educator/
 ### Offered
 
 Every IAP
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![The front of a classroom, with rows of tiered seats facing a wall full of blackboards.]({{< resource_file 72733ca8-b0fb-2b09-204f-59403259ce25 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The first day of the course was taught in a lecture hall with tiered seating for 119, several blackboards and whiteboards, and A/V equipment.
-    
-*   ![The front of a classroom, with arced tiers of desks facing a wall full of blackboards.]({{< resource_file 775c5680-3590-e359-e1ad-437993ec4d2c >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lecture
-    
-    The second and third days of the course were taught in a slightly smaller lecture hall with tiered seating and shared desk space for 90, blackboards, and A/V equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

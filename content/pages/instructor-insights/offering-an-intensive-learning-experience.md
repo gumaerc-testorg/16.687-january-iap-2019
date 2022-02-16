@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 title: Offering an Intensive Learning Experience
 uid: ffb0ae74-b5d1-e9e9-00ca-688fb2a3f901

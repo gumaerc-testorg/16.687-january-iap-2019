@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 title: Inviting Students into the Aviation Community
 uid: 89b102e1-1180-315b-9329-1f536d633592
