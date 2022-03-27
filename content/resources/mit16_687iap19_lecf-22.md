@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 24cd8438-c1d2-e3d6-7d52-602af43cbf1c
 resourcetype: Document
 title: MIT16_687IAP19_Lec, F-22 Flight Controls
 uid: 47ccc87f-2f60-e12f-3ed2-2e7f0d176d6a
