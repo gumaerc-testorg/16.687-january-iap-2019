@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +31,4 @@ Description
 This first lecture introduced the background and course objectives of this three-day workshop of ground school for pilots. The main purpose is to help students prepare the FAA Private Pilot Knowledge Test.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

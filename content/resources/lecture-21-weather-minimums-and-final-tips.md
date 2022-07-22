@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Class Videos
@@ -29,3 +31,4 @@ Description
 This last lecture discussed the more weather challenges a VFR pilot facing than an IFR pilot and had a final review of this three-day workshop.
 
 **Instructor:** Philip Greenspun, Tina Srisvastava
+

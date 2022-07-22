@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/72733ca8b0fb2b09204f59403259ce25_1st.jpg
+file: /courses/16-687-private-pilot-ground-school-january-iap-2019/72733ca8b0fb2b09204f59403259ce25_1st.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection

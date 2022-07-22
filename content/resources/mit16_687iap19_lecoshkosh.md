@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/4c4ce65b0bede35ba2eabc8020512b16_MIT16_687IAP19_LecOshkosh.pdf
+file: /courses/16-687-private-pilot-ground-school-january-iap-2019/4c4ce65b0bede35ba2eabc8020512b16_MIT16_687IAP19_LecOshkosh.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

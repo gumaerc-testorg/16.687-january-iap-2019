@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/31a7890829cb2e8ad4c6174f038d8674_6oZL2c3tgps.pdf
+file: /courses/16-687-private-pilot-ground-school-january-iap-2019/31a7890829cb2e8ad4c6174f038d8674_6oZL2c3tgps.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

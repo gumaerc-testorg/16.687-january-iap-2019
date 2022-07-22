@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-687-private-pilot-ground-school-january-iap-2019/28f08d9cfa1535c5585c492f8f462952_Cessna1.jpg
+file: /courses/16-687-private-pilot-ground-school-january-iap-2019/28f08d9cfa1535c5585c492f8f462952_Cessna1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Goals for Student Learning
 parent_type: CourseSection
