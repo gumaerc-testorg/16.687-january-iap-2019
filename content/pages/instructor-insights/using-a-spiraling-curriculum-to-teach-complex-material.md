@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 title: Using a Spiraling Curriculum to Teach Complex Material
 uid: f9501b13-1d57-0e8d-42e6-1a85a047b173
