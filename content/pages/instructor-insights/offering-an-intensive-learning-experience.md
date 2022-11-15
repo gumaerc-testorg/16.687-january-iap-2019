@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Srivastava and Dr. Greenspun offer their thoughts
+  on the value of formatting 16.687 Private Pilot Ground School as an intensive three-day
+  teaching and learning experience.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

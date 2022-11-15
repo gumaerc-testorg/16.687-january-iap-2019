@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the course policy of the MIT course 16.687 Private
+  Pilot Ground School of January IAP, 2019.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

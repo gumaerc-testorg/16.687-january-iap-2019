@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the class schedule of this three-day workshop.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

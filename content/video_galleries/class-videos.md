@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section includes all video lectures in the MIT course 16.687 Private
+  Pilot Ground School of January IAP, 2019.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection

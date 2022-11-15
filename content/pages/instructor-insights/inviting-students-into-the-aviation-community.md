@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Greenspun and Dr. Srivastava discuss how the Private
+  Pilot Ground School helps build the community of aviators at MIT.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
