@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Dr. Srivastava and Dr. Greenspun describe their goals\
+  \ for students\u2019 learning beyond preparing them to pass the official knowledge\
+  \ test for a pilot\u2019s certificate."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -19,7 +22,7 @@ Experiencing an Incredible Feat of Humankind
 
 TINA SRIVASTAVA: Every student graduating from MIT should know how airplanes fly. It's a really basic point of curiosity in the world, and people who come to MIT, who are very passionate and want to change the world, should know how airplanes work, some information about aviation, and this incredible feat of humankind, the fact that we’re able to fly through the air. I feel it’s really important for all students to have the opportunity to learn about airplanes and learn how to become pilots themselves.
 
-![View of water and land from underneath a Cessna.]({{< resource_file 28f08d9c-fa15-35c5-585c-492f8f462952 >}})
+{{< resource 28f08d9c-fa15-35c5-585c-492f8f462952 >}}
 
 A Cessna 172. (Image courtesy of Armando G. Alonso on Flickr. License CC BY NC.)
 
