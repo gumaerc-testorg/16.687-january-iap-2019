@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: In this section, Dr. Srivastava enumerates some of the instructional
+  strategies employed in the course to make it accessible to a large room full of
+  students who may be working through the material at completely different paces.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,11 +13,9 @@ parent_uid: c2504e57-7add-89f1-e0aa-62aa5722d22c
 title: Engaging Students in a Large Lecture
 uid: 224abcd0-236b-b1b5-83d9-2af3439f7271
 ---
+_In this section, Dr. Srivastava enumerates some of the instructional strategies employed in the course_ _to make it accessible to a large room full of students who may be working through the material at completely different paces._
 
-_In this section, Dr. Srivastava enumerates some of the instructional strategies employed in the course_ _to make it accessible to a large room full of students who may be working through the material at completely different paces__._
-
-Interactive Questions
----------------------
+## Interactive Questions
 
 It definitely is a challenge to teach to such a large classroom. One of the really challenging aspects is when the students don't even fit in the classroom and we have students in the overflow classroom. But with regard to the main classroom and the students in the lecture hall, one of the ways that we engage them is the traditional method of just asking a lot of questions and calling on the students to answer them.
 
@@ -21,15 +23,13 @@ Sometimes we pose questions and ask students to raise their hands to give us an 
 
 This was a really good question. It generated a lot of differences of opinion, with a good number of students guessing each of the three options. (I'll leave that interesting question there without the answer. You'll have to do the course to find out!)
 
-The Role of Images and Graphics
--------------------------------
+## The Role of Images and Graphics
 
 {{< quote "If a student wants to work through a more complex problem … we’ll discuss the problem with that student during the break and then present the answer back to the whole class." "— Tina Srivastava" >}}
 
 One good thing about aviation in the US is that the FAA has done a great job making graphics available for every kind of aviation topic: the layout of airports, drag curves for various planes, the structure of a wing, what it looks like when the airflow is getting turbulent on the back of the wing because it's pitched up too high. So we mine a lot of this public domain material from the FAA. The slide presentations to the students really help to set the stage. And if a student wants to work through a more complex problem—such as why an airplane performs worse if you use flaps when you're in icy conditions—we’ll discuss the problem with that student during the break and then present the answer back to the whole class before beginning the next topic.
 
-Using Props
------------
+## Using Props
 
 We use many different methods to teach the material. Not only do we use traditional PowerPoint slides, audio recordings, and videos, we also use various props, such as a model plane that helps students visualize the different forces on an aircraft, how wind flows over the aircraft, and to describe all the control surfaces on an aircraft.
 

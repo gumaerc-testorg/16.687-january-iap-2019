@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Srivasatava and Dr. Greenspun explain how the course
+  curriculum </em><em>touched on the same topic over and over through different lenses.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

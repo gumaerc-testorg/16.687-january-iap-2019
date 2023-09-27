@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this section, Dr. Srivastava explains how the frequent breaks built
+  into the structure of the course enable students to get help with concepts that
+  they find confusing.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

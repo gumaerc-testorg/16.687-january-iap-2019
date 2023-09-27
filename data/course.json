@@ -35,8 +35,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "fffd501b-694a-4a92-99d4-8d3277a90610",
+  "site_uid": "f216d4d0-d56b-4ce2-b569-8aecfc74fc95",
+  "site_short_id": "16.687-january-iap-2019",
   "title": "Course Metadata"
 }
