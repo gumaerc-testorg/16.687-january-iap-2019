@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-687-private-pilot-ground-school-january-iap-2019/775c56803590e359e1ad437993ec4d2c_2nd.jpg
+file_size: 83115
 file_type: image/jpeg
 image_metadata:
   caption: ''
