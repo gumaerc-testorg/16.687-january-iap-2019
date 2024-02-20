@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '136331897'
 file_type: ''
 image_metadata:
   caption: ''
