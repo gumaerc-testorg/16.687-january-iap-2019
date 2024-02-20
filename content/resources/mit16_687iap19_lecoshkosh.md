@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-687-private-pilot-ground-school-january-iap-2019/4c4ce65b0bede35ba2eabc8020512b16_MIT16_687IAP19_LecOshkosh.pdf
+file_size: 3563532
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
