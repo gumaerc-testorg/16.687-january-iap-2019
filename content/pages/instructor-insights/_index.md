@@ -28,7 +28,7 @@ Below, Dr. Philip Greenspun and Dr. Tina Srivastava describe various aspects of 
 
 ### Prerequisites
 
-None, though students are expected to have previously read portions of the {{% resource_link "ec899ba1-e4ce-4cc4-bc11-7d39d85f6f66" "FAA Pilot's Handbook of Aeronautical Knowledge" %}}, {{% resource_link "865f0cdd-2077-4c95-9085-cd574b4b5a57" "FAA Airplane Flying Handbook" %}}, and {{% resource_link "86d9d9f5-4c71-4cfc-972c-5244b93dad19" "FAA Helicopter Flying Handbook" %}}.
+None, though students are expected to have previously read portions of the [FAA Pilot's Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/), [FAA Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/), and [FAA Helicopter Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook/).
 
 ### Requirements Satisfied
 
@@ -42,7 +42,7 @@ Every IAP
 
 ## Assessment
 
-Students receive a {{% resource_link "d594a9d7-9a34-4075-9642-4c9bc519ae50" "P/D/F grade" %}} rather than standard letter grades. P (passing) indicates a C- or better.
+Students receive a [P/D/F grade](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/graduate-pdf-option) rather than standard letter grades. P (passing) indicates a C- or better.
 
 ## Student Information
 
