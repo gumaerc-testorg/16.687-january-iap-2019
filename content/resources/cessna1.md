@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-687-private-pilot-ground-school-january-iap-2019/28f08d9cfa1535c5585c492f8f462952_Cessna1.jpg
+file: /ol-ocw-studio-app/courses/16-687-private-pilot-ground-school-january-iap-2019/28f08d9cfa1535c5585c492f8f462952_Cessna1.jpg
 file_size: 100860
 file_type: image/jpeg
 image_metadata:
